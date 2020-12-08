@@ -1,16 +1,22 @@
-### Hi there 👋
+# ben&#8203;@vyrz.dev
 
-<!--
-**vyrzdev/vyrzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### An aspiring developer...
+-------------------------------------------------
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I have experience working with and writing...
+
+  - Serverless Applications
+
+  - Svelte JS Framework
+
+  - Python Flask & Django
+
+  - SQL, Redis, and MongoDB
+
+  - REST APIs + CRUD
+
+  - Industry Authentication Standards
+
+  - Wordpress & WooCommerce
