@@ -20,6 +20,14 @@ A few things I have worked with are...
     - Py-Serde (A lib for structuring and safely parsing JSON)
   - AMQP
     - Pika @ RabbitMQ
+  - API Wrappers
+    - Square
+    - Etsy
+    - Ebay
+    - Google (Sheets & Docs)
+    - Plesk
+    - WooCommerce
+    - Wordpress
 
 - Systems Administration
   - GCP App Engine / Compute Engine
