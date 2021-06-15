@@ -1,6 +1,6 @@
 # ben&#8203;@vyrz.dev
 
-### An aspiring developer...
+### Developer...
 <!--
 I'm a full stack backend and web developer.
 I predominantly use Python for my projects, however I have experience in Javascript and Rust.
