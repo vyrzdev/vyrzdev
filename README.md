@@ -1,51 +1,41 @@
 # ben&#8203;@vyrz.dev
 
-### Developer...
-<!--
-I'm a full stack backend and web developer.
+Hi! I'm Ben, a full stack backend and web developer.
 I predominantly use Python for my projects, however I have experience in Javascript and Rust.
-
-
 
 A few things I have worked with are...
 
-  - Python
-    - Web Frameworks
-      - Tiangolo's FastAPI
-      - Flask
-      - Django
-    - Async & Threading
-    - Databasing
-      - Mongoengine
-      - Django ORM
-      - SQLAlchemy
-    - Serialization
-      - Py-Serde (A lib for structuring and safely parsing JSON)
-    - AMQP
-      - Pika @ RabbitMQ
-    - API Wrappers
-      - Square
-      - Etsy
-      - Ebay
-      - Google (Sheets & Docs)
-      - Plesk
-      - WooCommerce
-      - Wordpress
-
-  - Systems Administration
-    - GCP App Engine / Compute Engine
-    - Kubernetes + Docker
-    - Heroku
-    - Daily Linux User
-    - VPS Provisioning & Management
-    - Plesk & CPanel
+- Python
+  - Web Frameworks
+    - FastAPI
+    - Flask
+  - Async & Threading
+    - Asyncio
+  - Databasing
+    - Mongoengine & SQLAlchemy
+  - Data Serialization
+    - JSON
+    - Py-Serde (A lib for structuring and safely parsing JSON)
+    ^ Contributed.
+  - Message Queues
+    - Pika @ RabbitMQ
+  - API Wrappers
+    - Square, Etsy, Shopify, Ebay, WooCommerce
     - Wordpress
+    - Google (Sheets & Docs)
+    - Plesk
+    - Google Cloud Platform
 
-  - Javascript
-    - Typescript
-    - Svelte & Vue (Limited)
-    - DOM API (Obviously)
-    - Jquery
-    - Node
-    - Webpack
---!>
+- Systems Administration
+  - GCP App Engine / Compute Engine
+  - Docker + Docker Compose
+  - Linux (Debian, Ubuntu, Fedora, Arch/Manjaro)
+  - Networking & Configuration
+  - Plesk & CPanel
+
+- Javascript
+  - Typescript
+  - UI Frameworks (Svelte, Vue3)
+  - Jquery
+  - Node
+  - Webpack
