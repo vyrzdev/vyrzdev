@@ -36,6 +36,6 @@ A few things I have worked with are...
 - Javascript
   - Typescript
   - UI Frameworks (Svelte, Vue3)
-  - Jquery
+  - jQuery
   - Node
   - Webpack
