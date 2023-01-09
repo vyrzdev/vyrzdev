@@ -39,3 +39,26 @@ A few things I have worked with are...
   - jQuery
   - Node
   - Webpack
+
+Since attending university, I have also completed the following modules.
+
+- 1st Year
+  - Computing Foundations (Databasing with SQL)
+  - Computing Systems (Sigma16 Assembly & Basic Logic)
+  - Electronics Engineering 1X + 1Y (MBED Microcontroller Programming, RC Filters, OpAmps)
+  - Maths 1G+1C (Calculus, Matrices, and Linear Algebra)
+- 2nd Year
+  - Algorithmic Foundations (Discrete Mathematics & Probability)
+  - Networks & Operating Systems (CPU Architecture, Protocol specifics, OSI Model)
+  - Digital Electronics (VHDL, Programming FPGAs, Interpreting data-sheets)
+  - Electrical Circuits (Transient Analysis by hand, Sinusoidal representation of AC signals, Solving for Phase/Impedance)
+  - Intro to Object Oriented Programming (Java Programming)
+  == IN PROGRESS ==
+  - Electronic Design Project (Team project, design and build, and report on an electronic heart rate monitor using [PPG](https://en.wikipedia.org/wiki/Photoplethysmogram))
+  - Algorithms & Data Structures
+  - Analogue Electronics
+  - Object Oriented Software Engineering (Java Design Patterns, Project Managament)
+  - Embedded Processors (Microcontroller Programming)
+  - Physics 2T, Programming under Linux (Covers basic C development & toolchain)
+
+  
