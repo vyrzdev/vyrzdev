@@ -53,8 +53,6 @@ Since attending university, I have also completed the following modules.
   - Digital Electronics (VHDL, Programming FPGAs, Interpreting data-sheets)
   - Electrical Circuits (Transient Analysis by hand, Sinusoidal representation of AC signals, Solving for Phase/Impedance)
   - Intro to Object Oriented Programming (Java Programming)
-  
-  == IN PROGRESS ==
   - Electronic Design Project (Team project, design and build, and report on an electronic heart rate monitor using [PPG](https://en.wikipedia.org/wiki/Photoplethysmogram))
   - Algorithms & Data Structures
   - Analogue Electronics
