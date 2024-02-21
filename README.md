@@ -1,7 +1,8 @@
 # ben&#8203;@vyrz.dev
 
 Hi! I'm Ben, a full stack backend and web developer.
-I predominantly use Rust for my projects, however I was originally a Python/JS developer.
+
+These days, I predominantly use Rust for my projects, however I was originally a Python/JS developer.
 
 Some of my passions are byte-level file parsing, networking/packet design, and competing-consumers-style pipelines.
 
@@ -78,7 +79,7 @@ Since attending university, I have also completed the following modules.
     - Programming Languages (Representing Contextual Grammars (EBNF), Abstract Syntax Trees, Compilers (extend one!))
     - Data Fundamentals - (Tensors, Optimisation Problems, Numpy, Matplotlib)
     - Networked Systems - (TCP/UDP/QUIC, real world concerns, Congestion Control/Slow-Start)
-    - Systems Programming - (C, Pointers & Memory Access, Manual Allocation, implemented various ADTs in C)
+    - Systems Programming - (C, Pointers & Memory Access, Manual Allocation, implemented various ADTs)
     - Team Project - (Design and implement a REAL PRODUCT for a REAL CUSTOMER in teams of 5, randomly selected)
       - Working for THALES UK, to produce GeoQuery, a tool which takes a directory full of map files, and allows
         this directory to be searched by a region, to find all files which contain data about the query region.
