@@ -9,7 +9,7 @@ Some things I've worked on:
 - Exploring **best-effort eventual consistency** between independent systems with limited observability and no direct coordination
 - **High-performance parsing and processing** of hardware simulation waveforms
 - **Architecture & Partner-facing support** for Arm’s AMBA CHI coherency protocol
-- ** GeoQuery **— a tool developed for Thales UK to index and spatially query collections of geospatial data, with a Rust backend and web interface
+- **GeoQuery** — a tool developed for Thales UK to index and spatially query collections of geospatial data, with a Rust backend and web interface
 
 I tend towards small, self-contained projects where finding the right model is most of the work. I like things that solve a problem and leave as little surface area to maintain as possible.
 
